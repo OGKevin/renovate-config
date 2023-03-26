@@ -10,8 +10,9 @@
     ":enablePreCommit",
     "github>OGKevin/renovate-config:commit-message",
     "github>OGKevin/renovate-config:pr-labels",
+    "github>OGKevin/renovate-config:semantic-commits",
+    "github>OGKevin/renovate-config:generic-regex-manager.json5",
     "github>OGKevin/renovate-config:semantic-commits"
-    "github>OGKevin/renovate-config:generic-regex-manager.json5"
   ],
   "onboarding": true,
   "requireConfig": "required",
