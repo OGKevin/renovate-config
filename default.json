@@ -23,5 +23,5 @@
     "prIgnoreNotification"
   ],
   "commitBodyTable": true,
-  "rebaseWhen": "conflicted"
+  "rebaseWhen": "auto"
 }
